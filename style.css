@@ -1,0 +1,33 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #95e1ff;
+}
+
+#section-jumbotron {
+  background-image: url(img/bg-image.jpg);
+}
+
+#projects {
+  background-color: #95e1ff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.socials a {
+  margin: 1rem;
+  font-size: 1.5rem;
+}
+
+#navbar {
+  background: #373b44;
+  background: -webkit-linear-gradient(to right, #4286f4, #373b44);
+  background: linear-gradient(to right, #4286f4, #373b44);
+}
+
+footer {
+  background: #373b44;
+  background: -webkit-linear-gradient(to bottom, #4286f4, #373b44);
+  background: linear-gradient(to bottom, #4286f4, #373b44);
+}
