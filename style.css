@@ -22,12 +22,23 @@ section {
 
 #navbar {
   background: #373b44;
-  background: -webkit-linear-gradient(to right, #4286f4, #373b44);
-  background: linear-gradient(to right, #4286f4, #373b44);
 }
 
 footer {
   background: #373b44;
   background: -webkit-linear-gradient(to bottom, #4286f4, #373b44);
   background: linear-gradient(to bottom, #4286f4, #373b44);
+}
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
+
+.contact-form input:focus-label,
+.contact-form input:valid-label {
+  top: -5px;
 }
