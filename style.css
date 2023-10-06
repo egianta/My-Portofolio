@@ -37,8 +37,3 @@ footer {
 #gallery .row > * {
   padding: 0;
 }
-
-.contact-form input:focus-label,
-.contact-form input:valid-label {
-  top: -5px;
-}
